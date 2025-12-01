@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "TRUTH～A Great Detective of Love～",
+  "base_artist": "TWO-MIX",
+  "createdAt": "2025-12-01T16:42:01.122105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TRUTH: A Great Detective of Love",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_TRUTH__A_Great_Detective_of_Love_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TRUTH 〜A Great Detective of Love〜",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_TRUTH_〜A_Great_Detective_of_Love〜_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TRUTH ~A Great Detective of Love~",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/03_TRUTH_~A_Great_Detective_of_Love~_Reol.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TRUTH 〜A Great Detective of Love〜",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/04_TRUTH_〜A_Great_Detective_of_Love〜_nano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TRUTH〜A Great Detective of Love〜",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_TRUTH〜A_Great_Detective_of_Love〜_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Truth: A Great Detective of Love",
+      "artist": "Two-Mix",
+      "has_synced": false,
+      "path": "select/06_Truth__A_Great_Detective_of_Love_Two-Mix.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TRUTH～A Great Detective of Love～",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/07_TRUTH~A_Great_Detective_of_Love~_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Truth: A Great Detective of Love (International)",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/08_Truth__A_Great_Detective_of_Love_(International)_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Truth ~A Great Detective Of Love~",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/09_Truth_~A_Great_Detective_Of_Love~_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Truth -A Great Detective Of Love-",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/10_Truth_-A_Great_Detective_Of_Love-_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TRUTH～A Great Detective of Love～",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/11_TRUTH~A_Great_Detective_of_Love~_NANO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TRUTH ～A Great Detective of Love～",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/12_TRUTH_~A_Great_Detective_of_Love~_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TRUTH～A Great Detective of Love～",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/13_TRUTH~A_Great_Detective_of_Love~_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TRUTH~A Great Detective of Love~",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/14_TRUTH~A_Great_Detective_of_Love~_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "TRUTH～A Great Detective of Love～",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/15_TRUTH~A_Great_Detective_of_Love~_V.A..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mit aller Kraft (Truth - A Great Detective Of Love) (Detektiv Conan)",
+      "artist": "Anime Allstars",
+      "has_synced": false,
+      "path": "select/16_Mit_aller_Kraft_(Truth_-_A_Great_Detective_Of_Love)_(Detektiv_Conan)_Anime_Allstars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRUTH～A Great Detective of Love～",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_TRUTH~A_Great_Detective_of_Love~_ナノ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "TRUTH 〜A Great Detective of Love〜",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_02_TRUTH_〜A_Great_Detective_of_Love〜_ナノ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Truth ～A Great Detective Of Love～",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_03_Truth_~A_Great_Detective_Of_Love~_ナノ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Truth ～A Great Detective Of Love～ [Ballad Style]",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_04_Truth_~A_Great_Detective_Of_Love~_[Ballad_Style]_ナノ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "TRUTH ～A Great Detective of Love～",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_05_TRUTH_~A_Great_Detective_of_Love~_ナノ.txt"
+    }
+  ]
+}
